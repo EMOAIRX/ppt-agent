@@ -47,3 +47,4 @@ lerna-debug.log*
 .cache
 .temp
 .tmp
+public
